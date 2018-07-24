@@ -2,7 +2,7 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.photo;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.photo;
 
 
 

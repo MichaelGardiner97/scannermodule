@@ -1,4 +1,4 @@
-package org.opencv.imgproc;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.imgproc;
 
 import java.lang.Math;
 

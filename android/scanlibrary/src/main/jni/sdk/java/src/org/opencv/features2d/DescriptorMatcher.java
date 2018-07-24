@@ -2,7 +2,7 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.features2d;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.features2d;
 
 import java.lang.String;
 import java.util.ArrayList;

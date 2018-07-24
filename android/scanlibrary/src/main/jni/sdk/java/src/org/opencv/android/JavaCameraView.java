@@ -1,4 +1,4 @@
-package org.opencv.android;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.android;
 
 import java.util.List;
 
@@ -15,7 +15,7 @@ import android.view.ViewGroup.LayoutParams;
 import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 import org.opencv.core.Size;
-import org.opencv.imgproc.Imgproc;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.imgproc.Imgproc;
 
 /**
  * This class is an implementation of the Bridge View between OpenCV and Java Camera.

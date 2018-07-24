@@ -2,7 +2,7 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.videoio;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.videoio;
 
 import java.lang.String;
 import org.opencv.core.Mat;

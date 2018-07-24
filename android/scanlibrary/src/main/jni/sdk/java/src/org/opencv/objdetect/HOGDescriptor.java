@@ -2,7 +2,7 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.objdetect;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.objdetect;
 
 import java.lang.String;
 import java.util.ArrayList;

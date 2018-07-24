@@ -1,4 +1,4 @@
-package com.scanlibrary;
+package com.reactlibrary.scanlibrary.src.androidTest.java.com.scanlibrary;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

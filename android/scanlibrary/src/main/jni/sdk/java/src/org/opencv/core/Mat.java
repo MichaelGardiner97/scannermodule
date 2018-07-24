@@ -1,4 +1,4 @@
-package org.opencv.core;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core;
 
 // C++: class Mat
 //javadoc: Mat

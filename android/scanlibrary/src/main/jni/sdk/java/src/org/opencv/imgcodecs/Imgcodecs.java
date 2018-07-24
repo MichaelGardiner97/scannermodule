@@ -2,7 +2,7 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.imgcodecs;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.imgcodecs;
 
 import java.lang.String;
 import java.util.ArrayList;

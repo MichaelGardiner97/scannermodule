@@ -2,17 +2,17 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.core;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core;
 
 import java.lang.String;
 import java.util.ArrayList;
 import java.util.List;
 import org.opencv.core.Mat;
-import org.opencv.core.MatOfDouble;
-import org.opencv.core.MatOfInt;
-import org.opencv.core.Scalar;
-import org.opencv.core.TermCriteria;
-import org.opencv.utils.Converters;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core.MatOfDouble;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core.MatOfInt;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core.Scalar;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core.TermCriteria;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.utils.Converters;
 
 public class Core {
 

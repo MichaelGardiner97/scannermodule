@@ -2,7 +2,7 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.calib3d;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.calib3d;
 
 import java.util.ArrayList;
 import java.util.List;

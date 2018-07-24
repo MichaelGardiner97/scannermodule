@@ -1,4 +1,4 @@
-package org.opencv.utils;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.utils;
 
 import java.util.ArrayList;
 import java.util.List;

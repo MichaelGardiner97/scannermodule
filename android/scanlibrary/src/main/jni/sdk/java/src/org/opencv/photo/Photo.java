@@ -2,14 +2,14 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.photo;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.photo;
 
 import java.util.ArrayList;
 import java.util.List;
 import org.opencv.core.Mat;
 import org.opencv.core.MatOfFloat;
 import org.opencv.core.Point;
-import org.opencv.utils.Converters;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.utils.Converters;
 
 public class Photo {
 

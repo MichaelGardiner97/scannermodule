@@ -2,10 +2,10 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.ml;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.ml;
 
-import org.opencv.core.Algorithm;
-import org.opencv.core.Mat;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core.Algorithm;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core.Mat;
 
 // C++: class StatModel
 //javadoc: StatModel

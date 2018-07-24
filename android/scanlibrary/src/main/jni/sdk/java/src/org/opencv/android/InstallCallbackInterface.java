@@ -1,4 +1,4 @@
-package org.opencv.android;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.android;
 
 /**
  * Installation callback interface.

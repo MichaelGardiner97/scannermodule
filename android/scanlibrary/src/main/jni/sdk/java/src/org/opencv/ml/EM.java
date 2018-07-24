@@ -2,13 +2,13 @@
 //
 // This file is auto-generated. Please don't modify it!
 //
-package org.opencv.ml;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.ml;
 
 import java.util.ArrayList;
 import java.util.List;
-import org.opencv.core.Mat;
-import org.opencv.core.TermCriteria;
-import org.opencv.utils.Converters;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core.Mat;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.core.TermCriteria;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.utils.Converters;
 
 // C++: class EM
 //javadoc: EM

@@ -1,4 +1,4 @@
-package org.opencv.android;
+package com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.android;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -6,7 +6,7 @@ import android.graphics.Bitmap;
 import org.opencv.core.CvException;
 import org.opencv.core.CvType;
 import org.opencv.core.Mat;
-import org.opencv.imgcodecs.Imgcodecs;
+import com.reactlibrary.scanlibrary.src.main.jni.sdk.java.src.org.opencv.imgcodecs.Imgcodecs;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
