@@ -1,6 +1,6 @@
 
 #import "RNScannerModule.h"
-#import "IRLDocumentScanner.h"
+#import "WeScan.h"
 
 @interface RNScannerModule () <ImageScannerControllerDelegate>
 @property (nonatomic, copy) RCTPromiseResolveBlock resolve;
@@ -19,7 +19,13 @@
     return dispatch_get_main_queue();
 }
 
-//exports a method tackePhoto to javascript
+/* TODO:
+        Finish implementing WeScan delegate functions
+            - I have attached a viewcontroller that has the necessary implementations (in swift, so has to be converted to @objc)
+        You'll have to re-integreate WeScan in the master build - can just use cocoapods
+ */
+
+//exports a method takePhoto to javascript
 RCT_EXPORT_METHOD(takePhoto:(RCTPromiseResolveBlock)resolve rejecter:(RCTPromiseRejectBlock)reject) {
     self.resolve = resolve;
     self.reject = reject;
